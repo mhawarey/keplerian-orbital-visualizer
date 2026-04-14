@@ -35,7 +35,12 @@ python orbital_visualization_dynamic.py
 
 ## Author
 
-**Dr. Mosab Hawarey** — [github.com/mhawarey](https://github.com/mhawarey)
+**Dr. Mosab Hawarey**
+PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
+
+- GitHub: https://github.com/mhawarey
+- Personal: https://hawarey.org/mosab
+- ORCID: https://orcid.org/0000-0001-7846-951X
 
 ## License
 
