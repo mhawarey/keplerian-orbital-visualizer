@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv*/
