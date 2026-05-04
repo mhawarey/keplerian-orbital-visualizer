@@ -1,5 +1,7 @@
 # Dynamic Keplerian Orbital Visualizer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An interactive 3D orbital mechanics visualization tool. Input the six classical Keplerian orbital elements and visualize the resulting orbit around Earth with real-time animation, ground track projection, and orbital energy analysis.
 
 ## Features
@@ -36,6 +38,7 @@ python orbital_visualization_dynamic.py
 ## Author
 
 **Dr. Mosab Hawarey**
+>
 PhD, Geodetic & Photogrammetric Engineering (ITU) | MSc, Geomatics (Purdue) | MBA (Wales) | BSc, MSc (METU)
 
 - GitHub: https://github.com/mhawarey
